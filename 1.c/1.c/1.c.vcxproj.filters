@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Hello_World.c">
+    <ClCompile Include="3_6_1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_6_2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_6_3.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
