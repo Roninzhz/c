@@ -66,5 +66,8 @@
     <ClCompile Include="10_1_1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8_1_1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
