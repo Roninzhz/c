@@ -75,5 +75,8 @@
     <ClCompile Include="3_1.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3_2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
