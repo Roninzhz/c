@@ -126,6 +126,7 @@
     <ClCompile Include="10_1_1.c" />
     <ClCompile Include="10_2_1.c" />
     <ClCompile Include="1_1.c" />
+    <ClCompile Include="1_2.c" />
     <ClCompile Include="1_2_3.c" />
     <ClCompile Include="3_1.c" />
     <ClCompile Include="3_2.c" />
